@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/Krishn187/leetcode_solution/tree/master/0520-detect-capital) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Krishn187/leetcode_solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
