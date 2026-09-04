@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Krishn187/leetcode_solution/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Krishn187/leetcode_solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Krishn187/leetcode_solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
