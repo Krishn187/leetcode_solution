@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Krishn187/leetcode_solution/tree/master/0441-arranging-coins) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Krishn187/leetcode_solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Krishn187/leetcode_solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Krishn187/leetcode_solution/tree/master/3870-count-commas-in-range) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Krishn187/leetcode_solution/tree/master/0115-distinct-subsequences) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Krishn187/leetcode_solution/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
