@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Krishn187/leetcode_solution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Krishn187/leetcode_solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Krishn187/leetcode_solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishn187/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krishn187/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Krishn187/leetcode_solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Krishn187/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/Krishn187/leetcode_solution/tree/master/0441-arranging-coins) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Krishn187/leetcode_solution/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishn187/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Krishn187/leetcode_solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Krishn187/leetcode_solution/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Krishn187/leetcode_solution/tree/master/3876-construct-uniform-parity-array-ii) |
