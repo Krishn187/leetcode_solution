@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Krishn187/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Krishn187/leetcode_solution/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/Krishn187/leetcode_solution/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/Krishn187/leetcode_solution/tree/master/0520-detect-capital) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Krishn187/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Krishn187/leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Krishn187/leetcode_solution/tree/master/0682-baseball-game) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krishn187/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -87,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Krishn187/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krishn187/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
