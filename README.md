@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Krishn187/leetcode_solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Krishn187/leetcode_solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Krishn187/leetcode_solution/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2057-smallest-index-with-equal-value](https://github.com/Krishn187/leetcode_solution/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Krishn187/leetcode_solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Krishn187/leetcode_solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishn187/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
