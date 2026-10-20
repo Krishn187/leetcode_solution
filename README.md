@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Krishn187/leetcode_solution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/Krishn187/leetcode_solution/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Krishn187/leetcode_solution/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Krishn187/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Krishn187/leetcode_solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishn187/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krishn187/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Krishn187/leetcode_solution/tree/master/0441-arranging-coins) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Krishn187/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Design
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Krishn187/leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Krishn187/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Krishn187/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
