@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Krishn187/leetcode_solution/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Krishn187/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krishn187/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2299-strong-password-checker-ii](https://github.com/Krishn187/leetcode_solution/tree/master/2299-strong-password-checker-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Krishn187/leetcode_solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Krishn187/leetcode_solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
