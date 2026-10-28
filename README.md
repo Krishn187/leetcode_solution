@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishn187/leetcode_solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Krishn187/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Krishn187/leetcode_solution/tree/master/0682-baseball-game) |
 | [0980-unique-paths-iii](https://github.com/Krishn187/leetcode_solution/tree/master/0980-unique-paths-iii) |
 | [1512-number-of-good-pairs](https://github.com/Krishn187/leetcode_solution/tree/master/1512-number-of-good-pairs) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Krishn187/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Krishn187/leetcode_solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
