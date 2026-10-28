@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Krishn187/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Krishn187/leetcode_solution/tree/master/0682-baseball-game) |
 | [0980-unique-paths-iii](https://github.com/Krishn187/leetcode_solution/tree/master/0980-unique-paths-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Krishn187/leetcode_solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1512-number-of-good-pairs](https://github.com/Krishn187/leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Krishn187/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Krishn187/leetcode_solution/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Krishn187/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Krishn187/leetcode_solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Krishn187/leetcode_solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
