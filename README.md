@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/Krishn187/leetcode_solution/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Krishn187/leetcode_solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Krishn187/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2363-merge-similar-items](https://github.com/Krishn187/leetcode_solution/tree/master/2363-merge-similar-items) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Krishn187/leetcode_solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Krishn187/leetcode_solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishn187/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Krishn187/leetcode_solution/tree/master/0290-word-pattern) |
 | [1512-number-of-good-pairs](https://github.com/Krishn187/leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Krishn187/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
+| [2363-merge-similar-items](https://github.com/Krishn187/leetcode_solution/tree/master/2363-merge-similar-items) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krishn187/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Krishn187/leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Krishn187/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Krishn187/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2363-merge-similar-items](https://github.com/Krishn187/leetcode_solution/tree/master/2363-merge-similar-items) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Krishn187/leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Backtracking
 |  |
@@ -169,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2363-merge-similar-items](https://github.com/Krishn187/leetcode_solution/tree/master/2363-merge-similar-items) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Krishn187/leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
