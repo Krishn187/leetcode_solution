@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Krishn187/leetcode_solution/tree/master/0045-jump-game-ii) |
+| [0079-word-search](https://github.com/Krishn187/leetcode_solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Krishn187/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Krishn187/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishn187/leetcode_solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishn187/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Krishn187/leetcode_solution/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Krishn187/leetcode_solution/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/Krishn187/leetcode_solution/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/Krishn187/leetcode_solution/tree/master/0520-detect-capital) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Krishn187/leetcode_solution/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Krishn187/leetcode_solution/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Krishn187/leetcode_solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Krishn187/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0980-unique-paths-iii](https://github.com/Krishn187/leetcode_solution/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Krishn187/leetcode_solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Krishn187/leetcode_solution/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
