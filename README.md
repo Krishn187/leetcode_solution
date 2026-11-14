@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/Krishn187/leetcode_solution/tree/master/2363-merge-similar-items) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Krishn187/leetcode_solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Krishn187/leetcode_solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Krishn187/leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krishn187/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krishn187/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Krishn187/leetcode_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Krishn187/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Krishn187/leetcode_solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Krishn187/leetcode_solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Krishn187/leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Krishn187/leetcode_solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Krishn187/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Krishn187/leetcode_solution/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
