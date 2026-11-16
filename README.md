@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Krishn187/leetcode_solution/tree/master/0682-baseball-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishn187/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/Krishn187/leetcode_solution/tree/master/0980-unique-paths-iii) |
+| [0997-find-the-town-judge](https://github.com/Krishn187/leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Krishn187/leetcode_solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1512-number-of-good-pairs](https://github.com/Krishn187/leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Krishn187/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Krishn187/leetcode_solution/tree/master/0290-word-pattern) |
+| [0997-find-the-town-judge](https://github.com/Krishn187/leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [1512-number-of-good-pairs](https://github.com/Krishn187/leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Krishn187/leetcode_solution/tree/master/1748-sum-of-unique-elements) |
 | [2363-merge-similar-items](https://github.com/Krishn187/leetcode_solution/tree/master/2363-merge-similar-items) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Krishn187/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Krishn187/leetcode_solution/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
