@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Krishn187/leetcode_solution/tree/master/0045-jump-game-ii) |
+| [0078-subsets](https://github.com/Krishn187/leetcode_solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Krishn187/leetcode_solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Krishn187/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Krishn187/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
@@ -159,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Krishn187/leetcode_solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Krishn187/leetcode_solution/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Krishn187/leetcode_solution/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Krishn187/leetcode_solution/tree/master/0078-subsets) |
 | [0980-unique-paths-iii](https://github.com/Krishn187/leetcode_solution/tree/master/0980-unique-paths-iii) |
 ## Matrix
 |  |
