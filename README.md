@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krishn187/leetcode_solution/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Krishn187/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishn187/leetcode_solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/Krishn187/leetcode_solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Krishn187/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Krishn187/leetcode_solution/tree/master/0682-baseball-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishn187/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Krishn187/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Krishn187/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/Krishn187/leetcode_solution/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Krishn187/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Krishn187/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Krishn187/leetcode_solution/tree/master/2078-two-furthest-houses-with-different-colors) |
