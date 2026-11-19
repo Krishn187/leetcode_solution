@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Krishn187/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krishn187/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/Krishn187/leetcode_solution/tree/master/1360-number-of-days-between-two-dates) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Krishn187/leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2299-strong-password-checker-ii](https://github.com/Krishn187/leetcode_solution/tree/master/2299-strong-password-checker-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Krishn187/leetcode_solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Krishn187/leetcode_solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Krishn187/leetcode_solution/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Krishn187/leetcode_solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Krishn187/leetcode_solution/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Krishn187/leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Krishn187/leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
 |  |
