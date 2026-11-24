@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Krishn187/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krishn187/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/Krishn187/leetcode_solution/tree/master/1360-number-of-days-between-two-dates) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Krishn187/leetcode_solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Krishn187/leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2299-strong-password-checker-ii](https://github.com/Krishn187/leetcode_solution/tree/master/2299-strong-password-checker-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Krishn187/leetcode_solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
