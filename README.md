@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Krishn187/leetcode_solution/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/Krishn187/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
 | [0867-transpose-matrix](https://github.com/Krishn187/leetcode_solution/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/Krishn187/leetcode_solution/tree/master/0896-monotonic-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishn187/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/Krishn187/leetcode_solution/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/Krishn187/leetcode_solution/tree/master/0997-find-the-town-judge) |
