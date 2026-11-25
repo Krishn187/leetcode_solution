@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/Krishn187/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishn187/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
+| [1103-distribute-candies-to-people](https://github.com/Krishn187/leetcode_solution/tree/master/1103-distribute-candies-to-people) |
 | [1360-number-of-days-between-two-dates](https://github.com/Krishn187/leetcode_solution/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/Krishn187/leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Krishn187/leetcode_solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Krishn187/leetcode_solution/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Krishn187/leetcode_solution/tree/master/0867-transpose-matrix) |
+| [1103-distribute-candies-to-people](https://github.com/Krishn187/leetcode_solution/tree/master/1103-distribute-candies-to-people) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Krishn187/leetcode_solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Krishn187/leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Krishn187/leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
