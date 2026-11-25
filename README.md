@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Krishn187/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/Krishn187/leetcode_solution/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/Krishn187/leetcode_solution/tree/master/0997-find-the-town-judge) |
+| [1089-duplicate-zeros](https://github.com/Krishn187/leetcode_solution/tree/master/1089-duplicate-zeros) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Krishn187/leetcode_solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1512-number-of-good-pairs](https://github.com/Krishn187/leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Krishn187/leetcode_solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Krishn187/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
+| [1089-duplicate-zeros](https://github.com/Krishn187/leetcode_solution/tree/master/1089-duplicate-zeros) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
