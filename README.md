@@ -260,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Krishn187/leetcode_solution/tree/master/3411-maximum-subarray-with-equal-products) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Krishn187/leetcode_solution/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
