@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Krishn187/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Krishn187/leetcode_solution/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/Krishn187/leetcode_solution/tree/master/0806-number-of-lines-to-write-string) |
+| [0867-transpose-matrix](https://github.com/Krishn187/leetcode_solution/tree/master/0867-transpose-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishn187/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/Krishn187/leetcode_solution/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/Krishn187/leetcode_solution/tree/master/0997-find-the-town-judge) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Krishn187/leetcode_solution/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Krishn187/leetcode_solution/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Krishn187/leetcode_solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Krishn187/leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Krishn187/leetcode_solution/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Krishn187/leetcode_solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Krishn187/leetcode_solution/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/Krishn187/leetcode_solution/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/Krishn187/leetcode_solution/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
