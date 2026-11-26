@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/Krishn187/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishn187/leetcode_solution/tree/master/0973-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/Krishn187/leetcode_solution/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/Krishn187/leetcode_solution/tree/master/1103-distribute-candies-to-people) |
 | [1360-number-of-days-between-two-dates](https://github.com/Krishn187/leetcode_solution/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/Krishn187/leetcode_solution/tree/master/1512-number-of-good-pairs) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Krishn187/leetcode_solution/tree/master/0115-distinct-subsequences) |
 | [0435-non-overlapping-intervals](https://github.com/Krishn187/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Krishn187/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [1025-divisor-game](https://github.com/Krishn187/leetcode_solution/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,4 +279,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Krishn187/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Krishn187/leetcode_solution/tree/master/0237-delete-node-in-a-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Krishn187/leetcode_solution/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Krishn187/leetcode_solution/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Krishn187/leetcode_solution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
