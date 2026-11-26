@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Krishn187/leetcode_solution/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishn187/leetcode_solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Krishn187/leetcode_solution/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Krishn187/leetcode_solution/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishn187/leetcode_solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Krishn187/leetcode_solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Krishn187/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Krishn187/leetcode_solution/tree/master/0290-word-pattern) |
+| [0575-distribute-candies](https://github.com/Krishn187/leetcode_solution/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Krishn187/leetcode_solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0997-find-the-town-judge](https://github.com/Krishn187/leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [1512-number-of-good-pairs](https://github.com/Krishn187/leetcode_solution/tree/master/1512-number-of-good-pairs) |
